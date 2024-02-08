@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Feb 2024 02:30:35 at https://shreethemes.in/cartzio/layouts/sale.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://shreethemes.in/cartzio/layouts/sale.html
+(winhttrack -qwC2%P%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "tr, en, *" https://shreethemes.in/cartzio/layouts/sale.html -O1 "C:\Users\User\Desktop\Ecommerce\ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://shreethemes.in/cartzio/layouts/sale.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg-shape.png (from https://shreethemes.in/cartzio/layouts/sale.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/cartzio/layouts/shop-item-detail.html (from https://shreethemes.in/cartzio/layouts/sale.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg3.png (from https://shreethemes.in/cartzio/layouts/index.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/pages.jpg (from https://shreethemes.in/cartzio/layouts/user-account.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg1.png (from https://shreethemes.in/cartzio/layouts/index-fashion-two.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg2.png (from https://shreethemes.in/cartzio/layouts/index-fashion-two.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg6.jpg (from https://shreethemes.in/cartzio/layouts/index-fashion-three.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/assets/images/hero/bg4.jpg (from https://shreethemes.in/cartzio/layouts/index-fashion-four.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/cartzio/layouts/page-terms.html (from https://shreethemes.in/cartzio/layouts/user-invoice.html)
+02:31:34	Error: 	"Not Found" (404) at link https://shreethemes.in/cartzio/layouts/page-job-detail.html (from https://shreethemes.in/cartzio/layouts/career.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 151 links scanned, 140 files written (11679137 bytes overall) [8606921 bytes received at 145880 bytes/sec], 3598590 bytes transferred using HTTP compression in 64 files, ratio 13%, 18.8 requests per connection
+(10 errors, 0 warnings, 0 messages)
